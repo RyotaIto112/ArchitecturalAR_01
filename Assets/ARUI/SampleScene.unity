@@ -982,7 +982,7 @@ MonoBehaviour:
   objectPrefabs:
   - {fileID: 7712744539834779669, guid: d04446aaebea749db8d122190b6ffbf6, type: 3}
   - {fileID: 5313502569011020599, guid: 2a633be7f177e47e1bcd541e0177ac81, type: 3}
-  - {fileID: 7775649689335727383, guid: 907a18f0a4b3d6841a77d63e0b27dbf2, type: 3}
+  - {fileID: 8240976910994792498, guid: c6ef48c8d4257974c89a9a7216c049a8, type: 3}
 --- !u!114 &430858737
 MonoBehaviour:
   m_ObjectHideFlags: 0
