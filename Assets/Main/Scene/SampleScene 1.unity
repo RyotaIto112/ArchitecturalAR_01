@@ -981,8 +981,8 @@ MonoBehaviour:
   recController: {fileID: 1788245168}
   objectPrefabs:
   - {fileID: 7712744539834779669, guid: d04446aaebea749db8d122190b6ffbf6, type: 3}
-  - {fileID: 6646793599599041926, guid: 1609bcd78c979924c8a01cd547bb2ec1, type: 3}
   - {fileID: 8240976910994792498, guid: c6ef48c8d4257974c89a9a7216c049a8, type: 3}
+  - {fileID: 5266448921250902958, guid: 1609bcd78c979924c8a01cd547bb2ec1, type: 3}
 --- !u!114 &430858737
 MonoBehaviour:
   m_ObjectHideFlags: 0
