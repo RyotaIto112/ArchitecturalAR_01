@@ -913,6 +913,7 @@ GameObject:
   - component: {fileID: 430858733}
   - component: {fileID: 430858737}
   - component: {fileID: 430858736}
+  - component: {fileID: 430858738}
   m_Layer: 0
   m_Name: AR Session Origin
   m_TagString: Untagged
@@ -996,6 +997,22 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_RaycastPrefab: {fileID: 0}
+--- !u!114 &430858738
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 430858732}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 73a025b51106444e18fb408fde19ac53, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_AutomaticPlacement: 1
+  m_EnvironmentTextureFilterMode: 2
+  m_EnvironmentTextureHDR: 1
+  m_DebugPrefab: {fileID: 0}
 --- !u!1001 &433901920
 PrefabInstance:
   m_ObjectHideFlags: 0
